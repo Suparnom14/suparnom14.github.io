@@ -333,6 +333,7 @@ ion-icon {
   margin-right: auto;
   background-color: #FF006E;
   color: white;
+  animation-delay: 2.3s;
 }
 ion-icon#HPAB {
   float: left;
